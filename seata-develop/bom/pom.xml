@@ -107,7 +107,7 @@
         <annotation.api.version>1.2</annotation.api.version>
         <xz.version>1.8</xz.version>
         <commons-compress.version>1.19</commons-compress.version>
-        <ant.version>1.10.6</ant.version>
+        <ant.version>1.10.11</ant.version>
         <lz4.version>1.7.1</lz4.version>
 
         <!-- Compiler settings properties -->
