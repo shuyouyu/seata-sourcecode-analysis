@@ -64,7 +64,7 @@
         <spring.version>4.3.23.RELEASE</spring.version>
         <netty4.version>4.1.30.Final</netty4.version>
         <dubbo.version>2.7.0</dubbo.version>
-        <dubbo.alibaba.version>2.6.5</dubbo.alibaba.version>
+        <dubbo.alibaba.version>2.6.12</dubbo.alibaba.version>
         <sofa.rpc.version>5.5.3</sofa.rpc.version>
         <fastjson.version>1.2.60</fastjson.version>
         <protostuff.version>1.5.9</protostuff.version>
